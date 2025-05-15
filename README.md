@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **M.E.R.N Development**
 
-- 📫 How to reach me **siddhantgupta777@gmail.com**
+- 📫 How to reach me **g.siddhant0x01@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
