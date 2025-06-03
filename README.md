@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddhant Gupta</h1>
 <h3 align="center">Passion for Innovation and Excellence in Software Engineering</h3>
 
-- 🌱 I’m currently learning **M.E.R.N Development**
+- 🌱 I’m currently learning **M.E.R.N Development** and **AI Application Building(ML)**
 
 - 📫 How to reach me **g.siddhant0x01@gmail.com**
 
